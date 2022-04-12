@@ -21,7 +21,6 @@ function App() {
           <Route path="/test" element={<TestMe />}></Route>
         </Routes>
       </div>
-      ;
     </React.Fragment>
   );
 }
